@@ -1,0 +1,13 @@
+0tion {
+    text-align: center;
+}
+table, th td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
+th {
+    background: #ccc;
+}

@@ -1,7 +1,7 @@
-0tion {
+caption {
     text-align: center;
 }
-table, th td {
+table, th, td {
     border: 1px solid #000;
     border-collapse: collapse;
 }
@@ -10,4 +10,15 @@ th, td {
 }
 th {
     background: #ccc;
+}
+.vertical-text{
+    text-align: start;
+    writing-mode:vertical-lr;
+    transform: rotate(0deg);
+    text-orientation: upright;
+    font-size: 20px;
+    font-weight: bold;
+    
+      
+    padding: 10px;
 }
